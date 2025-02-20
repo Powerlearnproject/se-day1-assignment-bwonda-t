@@ -1,0 +1,52 @@
+#Part 1:Introduction to software Engineering
+Q1
+Software engineering is a branch of compture science.Broadly speacking, it is the discipline of creating and maintaining software.software engineering requires a varied technical skills base and experts knowlegde off programming languages to design and develop software
+
+Q2
+A milestone is a specific point in time within a project lifecycle used co measure the progress of a project towards its ultimate goal.Therefore the 3 key milestones in the evolution of software engineering are 
+1:SOFTWARE ENGINEERING
+2:SE ERA II:MASTERING THE PROCESS
+3:MAIN SE METHODOLOGIES
+
+1.timeline of software engineering has the characteristics of each era and period of the Se timeline together with the most popular methodologiess.We start this timeline in1956 because it generally thought that the firstoperaing system was produced in 1956 by General motor
+2.SE ERA II MASTERING THE MACHINE the term software engineering had not not yet been coined.code development was strongly influenced by outside forces.The main purpose of any piece was to optimize exploitation of the limited hardware resources
+3.MAIN SE METHODOLOGIES.Methodologies that are currently in use are the evoluion and/or the unification of methodologies defined and applied in previous eras 
+
+Q3
+The phases of software Development life cycle(SDLC) are 
+1.Planning-Establishing the project,scope,timeline ,budget and team structure
+2.Requiremets analysis-Gathering and documenting detailed user needs and functionalities required in the software 
+3.Design Development-Creating the software architecure interface designand system components based on the gathered requirements
+4.Teting-Executing test to identify and fix bugs,ensuring the software functions as intended and meets standards .
+5.Develoopment(Coding): writing the actual code for the software according to the design specifications
+6.Deployment:-Releasing the software to the production environment  for users to access
+7.Maintenane: Ongoing support and updates to the software post-deployment, including bug fixes,features enhancements and security patches
+
+Q4
+Agile is the best for dynamic teams that frequent changes members throughout the project life cycle or for teams that assign specific team member to multiple roles.Waterfall on the other hand works best for established teams and where each member is given a specific role.
+
+Waterfall is ideal if your project has stable and clearly requirments that are unlikely to change.This method ensures that all aspects of the project are well documented and followed precisely.Agile should be considered when requiremets are unclear or expexted to evolve 
+Real World eamples of waterfall and agile 
+Anecdote A software company was contracted to develop a complex financial system .They used wayerfall for the initial stages ensuring they had a clear understanding of the requirements.once development began they switched to agile allowing them o adapt to client's changing need
+
+Q5
+A software development team plans creates tests and releases new softwares and modules.Each role must collabrate with others to ensure all tasks are completed according to sakeholders' expectations andreleased online 
+Where as the primary responsibility of the QA Engineer is to prevent defects in addition they are responsible for identifying and eliminating any mistakes incode before is release to customers.
+The role of project manager in software engineering is to:
+-plan everything from exection o delivery
+-Oversee the software Development team 
+-Delegating work effectively 
+
+Q6
+Most IDEs have built-in support for version control sytems.This allows you to perform common operations like committing and branching without leaving your IDE.for example in VSC you can stage changes etc
+
+Q7
+The ability to navigate these factors while managing exiting processes is necessary to excel in software engineering
+Rapid Technologial advancement 
+Growing customer and clients Demands therefore be solved by automating bussiness process to providing a platform for social interaction to making sense of large data sets 
+
+Q8
+In software Quality assrane the four primary types of testsing are unit testing (testing individual code components)in-tegration testing(testing how different components interact)each playing a crucial role in identifying and resolving issues ay different stages of development to ensure high quality software delivery
+
+#part 2:Introduction to AI and promt engineering
+Prompt engineering gives developers more control over users' inreraction s with the AI Effective prompts provide intent and establish context tot tho the large language models.They help the AI refne the output and presents it concisely inthe required format. Propmt engineering is an artificial intelligence engineering technique that refines large language models with specific propmts and reccomended outputs
